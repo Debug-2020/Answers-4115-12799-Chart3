@@ -1069,9 +1069,6 @@ public class TimeSeries extends Series implements Cloneable, Serializable {
                 }
             }
         }
-       
-       
-        
         return copy;
     }
 
